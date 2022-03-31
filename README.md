@@ -1,1 +1,1 @@
-# Amazone Clone App "# amazone-clone" 
+# Amazone Clone App 
